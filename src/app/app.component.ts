@@ -8,7 +8,7 @@ import { AuthService } from './features/auth/auth.service';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'get-stream-io-draft';
+  title = 'ConverseeAngularChatApplication';
   constructor(public auth: AuthService, private router: Router) {}
 
   signOut() {
