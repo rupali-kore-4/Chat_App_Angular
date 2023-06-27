@@ -1,6 +1,6 @@
 # GetstreamChatAngularExample
 
-Conversee is a chat application built using Angular as frontend
+A chat application built using Angular as frontend
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
 ## Development server
